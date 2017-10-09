@@ -1,10 +1,4 @@
-package gui_programs;
-
 import javax.imageio.ImageIO;
-//Karamel Quitayen
-//G Period Java
-//Extra Credit Program: Concentration
-//=====================================
 import javax.swing.*;
 import javax.swing.Timer;
 import java.awt.*;
